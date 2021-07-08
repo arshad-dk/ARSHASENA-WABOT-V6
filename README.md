@@ -1,9 +1,9 @@
-## Its Me Farhan_Dqz🤗
+## Its Me 𝙰𝚁𝚂𝙷𝙰𝙳-𝚂𝙷𝙸🤗
 
 Thank you Everyone for helping to develop this one🦋 <BR>
-Join Whatsapp Group For Support 
+Join Whatsapp For Support 
 # ʙ⭕ᴛ ᴢᴏɴᴇ | ᴘᴜʙʟɪᴄ
-### https://chat.whatsapp.com/H0v1Idna7hA8dWBa88QPvw
+### http://wa.me/917559837855
 
 ## Thanks for Everything 
 ### We will always remember you..
@@ -27,16 +27,16 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/PublicBot
-$ cd PublicBot
+$ git clone https://github.com/arshad-dk/ARSHASENA-WABOT-V6
+$ cd ARSHASENA-WABOT-V6
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
 
 SETUP
-$ git clone https://github.com/farhan-dqz/PublicBot
-$ cd PublicBot
+$ git clone https://github.com/arshad-dk/ARSHASENA-WABOT-V6
+$ cd ARSHASENA-WABOT-V6
 $ chmod +x *
 $ npm i
 $ node qr.js
